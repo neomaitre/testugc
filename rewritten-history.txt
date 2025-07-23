@@ -1,0 +1,2 @@
+This file represents completely rewritten history.
+The previous commits should be preserved by Ultimate Git Cloner.
