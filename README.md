@@ -7,3 +7,5 @@ This repository is used for testing the preservation functionality of Ultimate G
 2. Force push (history rewrite)
 3. Tag deletion
 4. Reference changes
+## Commit History
+- Commit 1: Initial setup
